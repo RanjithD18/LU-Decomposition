@@ -40,7 +40,7 @@ x=lu_solve((lu,piv),B)
 print(x)
 ~~~
 ## Output:
-![lu decomposition]()
+![lu decomposition](https://github.com/RanjithD18/LU-Decomposition/blob/main/Screenshot%20from%202021-12-20%2010-37-18.png?raw=true)
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 

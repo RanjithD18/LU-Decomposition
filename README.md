@@ -17,8 +17,8 @@ To write a program to find the LU Decomposition of a matrix.
 ```
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: 
-RegisterNumber: 
+Developed by: Ranjith D
+RegisterNumber: 21500662
 */
 ```
 ~~~
@@ -41,6 +41,7 @@ print(x)
 ~~~
 ## Output:
 ![lu decomposition](https://github.com/RanjithD18/LU-Decomposition/blob/main/Screenshot%20from%202021-12-20%2010-37-18.png?raw=true)
+![lu decomposition](https://github.com/RanjithD18/LU-Decomposition/blob/main/Screenshot%20from%202021-12-20%2010-37-28.png?raw=true)
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 

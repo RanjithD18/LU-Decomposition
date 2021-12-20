@@ -30,7 +30,6 @@ print(U)
 ~~~
 ```
 Program to solve a matrix using LU decomposition.
-
 ```
 ~~~
 import numpy as np
